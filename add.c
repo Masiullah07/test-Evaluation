@@ -11,7 +11,7 @@ int main() {
     
     div = num1/num2;
     
-    printf("The div of %d and %d is %d.", num1, num2, sum);
+    printf("The div of %d and %d is %d.", num2, num4, sum);
     
     return 0;
 }
