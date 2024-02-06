@@ -9,9 +9,9 @@ int main() {
     printf("Enter the second number: ");
     scanf("%d", &num4);
     
-    div = num1/num2;
+    div = num1*num2;
     
-    printf("The div of %d and %d is %d.", num2, num4, sum);
+    printf("The mul of %d and %d is %d.", num2, num4, sum);
     
     return 0;
 }
