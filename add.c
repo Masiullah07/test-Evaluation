@@ -1,17 +1,17 @@
 #include <stdio.h>
 
 int main() {
-    int num1, num2, sum;
+    int num2, num4, sum;
     
     printf("Enter the first number: ");
-    scanf("%d", &num1);
-    
-    printf("Enter the second number: ");
     scanf("%d", &num2);
     
-    sub = num1 - num2;
+    printf("Enter the second number: ");
+    scanf("%d", &num4);
     
-    printf("The sub of %d and %d is %d.", num1, num2, sum);
+    div = num1/num2;
+    
+    printf("The div of %d and %d is %d.", num1, num2, sum);
     
     return 0;
 }
